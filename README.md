@@ -114,15 +114,15 @@ Outputs will be saved in `runs/detect/`.
 If you use this work, please cite:  
 
 ```bibtex
-@ARTICLE{MSF-GhostNet2025,
+@ARTICLE{10818706,
   author={Misbah, Maham and Khan, Misha Urooj and Kaleem, Zeeshan and Muqaibel, Ali and Alam, Muhamad Zeshan and Liu, Ran and Yuen, Chau},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={MSF-GhostNet: Computationally Efficient YOLO for Detecting Drones in Low-Light Conditions}, 
   year={2025},
   volume={18},
+  number={},
   pages={3840-3851},
-  doi={10.1109/JSTARS.2024.3524379}
-}
+  doi={10.1109/JSTARS.2024.3524379}}
 ```
 
 ---
