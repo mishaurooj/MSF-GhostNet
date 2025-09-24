@@ -1,5 +1,4 @@
-# 🚀 MSF-GhostNet  
-### *Computationally Efficient YOLO for Detecting Drones in Low-Light Conditions*  
+# 🚀 MSF-GhostNet: Computationally Efficient YOLO for Detecting Drones in Low-Light Conditions
 
 [![Paper](https://img.shields.io/badge/Paper-IEEE%20JSTARS-blue)](https://ieeexplore.ieee.org/document/10818706)  
 [![Dataset](https://img.shields.io/badge/Dataset-Roboflow-orange)](https://app.roboflow.com/tfnet-night-vision/mul/4)  
